@@ -710,8 +710,6 @@ $$
 e.d \equiv 1 \pmod{\phi(N)}
 $$
 
-> Nó có nghĩa là $e$ và $d$ là $2$ đại lượng tỉ lệ nghịch với nhau, là nghịch đảo Modulo $\phi(N)$. Chính vì vậy, khi $e$ quá lớn sẽ dẫn đến việc $d$ trở nên quá nhỏ, từ đó rất dễ bị tấn công. Tiêu biểu nhất đó chính là : **Wiener’s attack**.
-
 Điều kiện để thực hiện Wiener’s attack là : 
 
 $$
